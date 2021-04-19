@@ -1,0 +1,21 @@
+/node_modules
+/public/hot
+/public/peachtel
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+
+.vscode
+<<<<<<< HEAD
+.idea
+/.idea
+=======
+.idea
+>>>>>>> d331f8bef3cf98856c4282e532ef16ec02da6b87
